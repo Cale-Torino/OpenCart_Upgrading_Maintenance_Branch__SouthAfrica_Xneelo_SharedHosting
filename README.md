@@ -28,6 +28,8 @@ Upload all new files on top of your current install except your config.php and a
 
 Browse to `http://<yourstore.com>/install` Replacing `<yourstore.com>` with your actual site (and subdirectory if applicable).
 
+[<img src="img/1.png" width="800"/>](img/1.png)
+
 Click "Upgrade". After a few seconds you should see the upgrade success page.
 
 ### Step 6
@@ -35,6 +37,8 @@ Click "Upgrade". After a few seconds you should see the upgrade success page.
 Special storage folder copy (in the case of clients with shared hosting)
 
 Copy the `/public_html/<yourstore.com>/system/storage` folder to `/storage` in Filezilla
+
+[<img src="img/6.png" width="800"/>](img/6.png)
 
 ### Step 7
 
@@ -48,9 +52,13 @@ That will prevent oddly shifted elements due to stylesheet changes. Login to you
 
 Login to your admin panel and go to *System > Users > User Groups*
 
+[<img src="img/3.png" width="800"/>](img/3.png)
+
 Edit the Administrator select all permissions and save (even if nothing changed)
 
 Go to *System > Settings* edit the store and save.
+
+[<img src="img/5.png" width="800"/>](img/5.png)
 
 Also refresh the theme.
 
