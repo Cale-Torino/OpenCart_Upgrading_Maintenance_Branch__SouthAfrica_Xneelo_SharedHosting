@@ -46,7 +46,7 @@ Copy the `/public_html/<yourstore.com>/system/storage` folder to `/storage` in F
 
 ### Step 7
 
-Clear any cookies in your browser
+Clear any cookies in your browser.
 
 Goto the admin side of your store and press Ctrl+F5 or Ctrl+Shift+R for several times to refresh your browser cache. 
 
@@ -58,7 +58,7 @@ Login to your admin panel and go to *System > Users > User Groups*
 
 [<img src="img/3.png" width="800"/>](img/3.png)
 
-Edit the Administrator select all permissions and save (even if nothing changed)
+Edit the Administrator select all permissions and save. (even if nothing changed)
 
 Go to *System > Settings* edit the store and save.
 
