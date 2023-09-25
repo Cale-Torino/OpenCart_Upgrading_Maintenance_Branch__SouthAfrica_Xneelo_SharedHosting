@@ -1,6 +1,10 @@
 # OpenCart Upgrading Maintenance Branch South Africa Xneelo Shared Hosting
 
-Below is how I was able to upgrade my distribution of **OpenCart 3.0.3.8** with the **3.0.x.x_Maintenance** branch.
+Below is a walkthrough on how to upgrade your distribution of **OpenCart 3.0.3.8** with the **3.0.x.x_Maintenance** branch.
+
+This is mandatory to stay up to date with the latest security packages and updates including the latest `PHP8.xx` versions.
+
+All clients are required to do this at least once a year. (no exception when a new version of PHP is required!)
 
 ### Step 1
 
